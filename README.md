@@ -14,4 +14,3 @@ enjoy!
 [download latest release](https://github.com/robot-o/worktracker/releases).
 
 
-TEST
